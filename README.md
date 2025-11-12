@@ -1,4 +1,4 @@
-# OPENING--AND-CLOSING
+# OPENING-AND-CLOSING
 
 ### Name : Sai Hrishi M
 ### Reg No : 212224240140
@@ -11,7 +11,7 @@ To implement Opening and Closing using Python and OpenCV.
 
 1. Anaconda - Python 3.7
 2. OpenCV
-3. 
+
 ## Algorithm:
 
 ### Step1:
